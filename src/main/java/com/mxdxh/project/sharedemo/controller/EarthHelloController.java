@@ -17,6 +17,6 @@ public class EarthHelloController {
 
     @GetMapping("/hello")
     public String helloEarth() {
-        return "Hello 地球";
+        return "Hello 地球王";
     }
 }
